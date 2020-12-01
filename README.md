@@ -44,16 +44,12 @@
 * [Visual Relation Detection with Multi-Level Attention](https://dlacm.xilesou.top/doi/abs/10.1145/3343031.3350962) - Sipeng Zheng,  _et al_, `ACM MM 2019`.
 * [Natural Language Guided Visual Relationship Detection](http://openaccess.thecvf.com/content_CVPRW_2019/html/MULA/Liao_Natural_Language_Guided_Visual_Relationship_Detection_CVPRW_2019_paper.html) - Wentong Liao _et al_, `CVPR 2019`.
 * [Knowledge-Embedded Routing Network for Scene Graph Generation](https://arxiv.org/abs/1903.03326) - Tianshui Chen _et al_, `CVPR 2019`. 
-* [Soft Transfer Learning via Gradient Diagnosis for Visual Relationship Detection](https://ieeexplore.ieee.xilesou.top/abstract/document/8658599) - Diqi Chen _et al_, `WACV 2019`.
-* [Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation](https://arxiv.org/abs/1910.00462) - Ivan Donadello _et al_, `IJCNN 2019`. [[code]](https://github.com/ivanDonadello/Visual-Relationship-Detection-LTN)
 * [Hierarchical Visual Relationship Detection](https://dl.acm.org/doi/10.1145/3343031.3350921) - Xu Sun _et al_, `ACM MM 2019`.
-* [Visual Relationship Detection with Low Rank Non-Negative Tensor Decomposition](https://arxiv.xilesou.top/abs/1911.09895) - Mohammed Haroon Dupty _et al_, `arXiv 2019`.
-* [Relational Reasoning using Prior Knowledge for Visual Captioning](https://arxiv.xilesou.top/abs/1906.01290) - Jingyi Hou _et al_, `arXiv 2019`.
 * [Scene Graph Generation with External Knowledge and Image Reconstruction](https://arxiv.org/abs/1904.00560) - Jiuxiang Gu _et al_, `CVPR 2019`.
 * [Attention-Translation-Relation Network for Scalable Scene Graph Generation](http://openaccess.thecvf.com/content_ICCVW_2019/html/SGRL/Gkanatsios_Attention-Translation-Relation_Network_for_Scalable_Scene_Graph_Generation_ICCVW_2019_paper.html) - Nikolaos Gkanatsios _et al_, `ICCV 2019`.
 * [Detecting Unseen Visual Relations Using Analogies](http://openaccess.thecvf.com/content_ICCV_2019/html/Peyre_Detecting_Unseen_Visual_Relations_Using_Analogies_ICCV_2019_paper.html) - Julia Peyre _et al_, `ICCV 2019`.
 * [VrR-VG: Refocusing Visually-Relevant Relationships](https://arxiv.org/abs/1902.00313) - Yuanzhi Liang _et al_, `ICCV 2019`.
-* [SpatialSense: An Adversarially Crowdsourced Benchmark for Spatial Relation Recognition](https://arxiv.org/abs/1908.02660) - Kaiyu Yang _et al_, `ICCV 2019`. [[code]](https://github.com/princeton-vl/SpatialSense)
+* [SpatialSense: An Adversarially Crowdsourced Benchmark for Spatial Relation Recognition](https://arxiv.org/abs/1908.02660) - Kaiyu Yang _et al_, `ICCV 2019`.
 * [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/abs/1902.00038) - Kaiyu Yang _et al_, `AAAI 2019`. 
 * [On Class Imbalance and Background Filtering in Visual Relationship Detection](https://arxiv.org/abs/1903.08456) - Alessio Sarullo _et al_, `arXiv 2019`. 
 * [Improving Visual Relation Detection using Depth Maps](https://arxiv.org/abs/1905.00966) - Sahand Sharifzadeh _et al_, `arXiv 2019`.
@@ -63,11 +59,9 @@
 * [Neural Message Passing for Visual Relationship Detection](https://users.ece.cmu.edu/~sihengc/paper/19_ICMLW_HuCCZ.pdf) - Yue Hu  _et al_, `ICML LRG Workshop 2019`.
 * [PANet: A Context Based Predicate Association Network for Scene Graph Generation](https://ieeexplore.ieee.xilesou.top/abstract/document/8784780) - Yunian Chen  _et al_, `ICME 2019`. 
 * [Visual Relationship Detection with Relative Location Mining](https://arxiv.org/abs/1911.00713) - Hao Zhou  _et al_, `ACM MM 2019`. 
-* [Visual relationship detection based on bidirectional recurrent neural network](https://link.springer.com/article/10.1007%2Fs11042-019-7732-z) - Yibo Dai  _et al_, `Multimedia Tools and Applications 2019`. 
 * [Exploring the Semantics for Visual Relationship Detection](https://arxiv.org/abs/1904.02104) - Wentong Liao  _et al_, `arXiv 2019`. 
 * [Optimising the Input Image to Improve Visual Relationship Detection](https://arxiv.org/abs/1903.11029) - Noel Mizzi _et al_, `arXiv 2019`.
 * [Deeply Supervised Multimodal Attentional Translation Embeddings for Visual Relationship Detection](https://arxiv.org/abs/1902.05829) - Nikolaos Gkanatsios _et al_, `arXiv 2019`.
-* [Learning Effective Visual Relationship Detector on 1 GPU](https://arxiv.org/abs/1912.06185) - Yichao Lu _et al_, `arXiv 2019`.
 
 #### 2018
 * [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191) - Jianwei Yang  _et al_, `ECCV 2018`.
@@ -94,13 +88,13 @@
 * [ViP-CNN: Visual Phrase Guided Convolutional Neural Network](https://arxiv.org/abs/1702.07191) - Yikang Li  _et al_, `CVPR 2017`. 
 * [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114) - Bo Dai  _et al_, `CVPR 2017`.  
 * [Towards Context-Aware Interaction Recognition for Visual Relationship Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Towards_Context-Aware_Interaction_ICCV_2017_paper.pdf) - Bohan Zhuang  _et al_, `ICCV 2017`.
-* [Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues](https://arxiv.org/abs/1611.06641) - Bryan A _et al_, `ICCV 2017`. [[code]](https://github.com/BryanPlummer/pl-clc)
+* [Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues](https://arxiv.org/abs/1611.06641) - Bryan A _et al_, `ICCV 2017`. 
 * [Deep Variation-Structured Reinforcement Learning for Visual Relationship and Attribute Detection](https://arxiv.org/abs/1703.03054) - Xiaodan Liang _et al_, `CVPR 2017`. [[code]](https://github.com/nexusapoorvacus/DeepVariationStructuredRL)
 * [Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation](https://arxiv.org/abs/1707.09423v1) - Ruichi Yu _et al_, `ICCV 2017`.
 * [Visual Translation Embedding Network for Visual Relation Detection](https://arxiv.org/abs/1702.08319v1) - Hanwang Zhang _et al_, `CVPR 2017`. 
-* [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114) - Bo Dai _et al_, `CVPR 2017`. [[code]](https://github.com/doubledaibo/drnet_cvpr2017)
+* [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114) - Bo Dai _et al_, `CVPR 2017`. 
 * [Relationship Proposal Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Relationship_Proposal_Networks_CVPR_2017_paper.pdf) - Ji Zhang _et al_, `CVPR 2017`. 
-* [Weakly-Supervised Learning of Visual Relations](https://arxiv.org/abs/1707.09472) - Julia Peyre _et al_, `ICCV 2017`. [[code]](https://github.com/yjy941124/PPR-FCN)
+* [Weakly-Supervised Learning of Visual Relations](https://arxiv.org/abs/1707.09472) - Julia Peyre _et al_, `ICCV 2017`. 
 * [PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN](https://arxiv.org/abs/1708.01956) - Hanwang Zhang _et al_, `ICCV 2017`. 
 
 
@@ -109,7 +103,7 @@
 * [Recognition using visual phrases](http://vision.cs.uiuc.edu/phrasal/recognition_using_visual_phrases.pdf) - Mohammad Amin Sadeghi _et al_, `CVPR 2011`.
 
 ### Video Relation Detection
-* [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai _et al_, `CVPR 2019`. [[code]](https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph)
+* [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai _et al_, `CVPR 2019`. 
 * [Video Relation Detection with Spatio-Temporal Graph](https://dl.acm.org/doi/10.1145/3343031.3351058) - Xufeng Qian _et al_, `ACM MM 2019`.
 * [Video Visual Relation Detection via Multi-modal Feature Fusion](https://dlacm.xilesou.top/doi/abs/10.1145/3343031.3356076) - Xu Sun _et al_, `ACM MM 2019`.
 * [Relation Understanding in Videos](https://dl.acm.org/doi/abs/10.1145/3343031.3356080) - Sipeng Zheng _et al_, `ACM MM 2019`.
