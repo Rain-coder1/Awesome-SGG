@@ -2,14 +2,13 @@
 
 ## Table of Contents
 
-- [Scene Graph Generation and Relation Detection](#Scene-Graph-Generation)
+- [Scene Graph Generation and Relation Detection](#Scene-Graph-Generation-And-VRD)
 - [Video Relation Detection](#Video-Relation-Detection)
-- [Generate Scene Graph from Textual Description](#Generate-Scene-Graph-from-Textual-Description)
 - [Datasets](#Datasets)
 - [Evaluation Metrics](#Evaluation-Metrics)
 
 
-## Scene Graph Generation
+## Scene Graph Generation And VRD
 #### 2020
 * [Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation](https://arxiv.org/abs/1905.11624) - Zih-Siou Hung _et al_, `T-PAMI 2020`.
 * [Leveraging Auxiliary Text for Deep Recognition of Unseen Visual Relationships](https://arxiv.org/abs/1910.12324v1) - Gal Sadeh Kenigsfield  _et al_, `ICLR 2020`.
@@ -118,10 +117,6 @@
 * [Relation Understanding in Videos: A Grand Challenge Overview](https://dl.acm.org/doi/10.1145/3343031.3356082) - Xindi Shang _et al_, `ACM MM 2019`.
 * [Action Genome: Actions as Composition of Spatio-temporal Scene Graphs](https://arxiv.xilesou.top/abs/1912.06992) - Jingwei Ji _et al_, `arXiv 2019`.
 * [Video Visual Relation Detection](https://dl.acm.org/doi/pdf/10.1145/3123266.3123380?download=true) - Xindi Shang _et al_, `ACM MM 2017`. 
-
-### Generate Scene Graph from Textual Description
-* [Scene Graph Parsing as Dependency Parsing](https://arxiv.org/abs/1803.09189) - Yu-Siang Wang _et al_, `NAACL 2018`.
-* [Scene Graph Parsing by Attention Graph](https://arxiv.org/abs/1909.06273) - Martin Andrews  _et al_, `NIPS 2018`.
 
 
 ### Datasets
